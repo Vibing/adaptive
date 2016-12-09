@@ -1,6 +1,6 @@
 # adaptive.js
   - 修改手淘方案`flexible.js`，不再根据`dpr`的多少来缩放，使移动端自适应开发更方便。
-  - 抛弃`[data-dpr="2"] span{font-size: 32px;}`的兼容的兼容的写法
+  - 抛弃`[data-dpr="2"] span{font-size: 32px;}`的兼容写法
 # 
 
 # use
