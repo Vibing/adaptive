@@ -13,7 +13,6 @@
 `adaptive.js`不依赖任何js库，你可以在head标签内引用`adaptive.min.js`后即可直接使用
 
 # template
-这里建议使用以下模板进行开发：
     <!DOCTYPE html>
     <html lang="en">
     <head>
