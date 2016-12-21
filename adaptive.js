@@ -1,3 +1,6 @@
+/**
+ * create by iLong
+ */
 ;(function () {
     var doc = window.document,
         docEl = doc.documentElement,
