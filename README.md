@@ -14,7 +14,7 @@
 
 # template
 这里建议使用以下模板进行开发：
-    `<!DOCTYPE html>
+    <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -36,7 +36,7 @@
 
     </div>
     </body>
-    </html>`
+    </html>
 
 # demo
 [点我查看小demo](https://vibing.github.io/adaptive)
